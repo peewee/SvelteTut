@@ -1,2 +1,3 @@
 # SvelteTut
-www.valentinog.com/blog/svelte/
+
+following VALENTINO GAGLIARDI
